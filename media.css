@@ -101,3 +101,10 @@
       text-align: justify;
     }
   }
+
+  @media screen and (max-width: 600px) {
+    #profile {
+      height: 60vh;
+      margin-bottom: 0;
+    }
+  }
